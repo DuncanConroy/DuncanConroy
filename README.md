@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🚀 I wrote my first lines of code on a i486DX2-33 in Turbo Pascal when I was 10 years old.
+- 🚀 I wrote my first lines of code on an i486DX2-33 in Turbo Pascal when I was 10 years old.
 - 🔭 I’m currently working on a distributed logistics system [Kotlin] (main job) and a web-spider [Rust] for versionmanager.io (free-time)
 - 🪐 In the past, I've worked with Rust, Kotlin, Java, TypeScript, PHP, ActionScript in Backend and Frontend
 - 🌱 I’m currently learning Norwegian
