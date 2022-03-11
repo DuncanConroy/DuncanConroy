@@ -5,7 +5,7 @@
 - 🪐 In the past, I've worked with Rust, Kotlin, Java, TypeScript, PHP, ActionScript in Backend and Frontend
 - 🌱 I’m currently learning Norwegian
 - 👯 I’m looking to collaborate on IOTA
-- 🤔 I’m looking for help with finding a suitable Software Development Job in Norway
+- 🤔 I’m looking for software developers who want to join me building the next energy revolution in Oslo, Norway.
 - 💬 Ask me about software architecture
 - 📫 How to reach me: Twitter or Linkedin
 - 😄 Pronouns: he/him/his
